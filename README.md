@@ -6,9 +6,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ApacheRocketMQ?style=social)](https://twitter.com/intent/follow?screen_name=ApacheRocketMQ)
 
 Slogan:TBD
+
 ----------
 ## Features
 TBD
+
 ----------
 ## How to use
 * Step-by-step instruction are provided in [RocketMQ Cloudevents Introduction](docs/Introduction.md)
