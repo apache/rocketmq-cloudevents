@@ -5,11 +5,10 @@
 [![GitHub release](https://img.shields.io/badge/release-download-default.svg)](https://github.com/apache/rocketmq-cloudevents/releases)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ApacheRocketMQ?style=social)](https://twitter.com/intent/follow?screen_name=ApacheRocketMQ)
 
-Slogan:TBD
-
+Apache RocketMQ CloudEvents Client
 ----------
 ## Features
-TBD
+
 
 ----------
 ## How to use
